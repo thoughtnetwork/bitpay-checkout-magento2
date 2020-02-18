@@ -15,8 +15,7 @@ class Crypto implements \Magento\Framework\Option\ArrayInterface
     {
 
         return [
-            ['value' => 'BTC', 'label' => __('BTC')],
-            ['value' => 'BCH', 'label' => __('BCH')]
+            ['value' => 'THT', 'label' => __('THT')]
         ];
 
     }
